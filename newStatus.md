@@ -1,4 +1,4 @@
-Here is an extra line
+Here is an extra line, this is a better change!
 
 Here is a new line
 
